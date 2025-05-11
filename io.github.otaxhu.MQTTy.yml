@@ -55,5 +55,5 @@ modules:
       - -Dprofile=default
     sources:
       - type: archive
-        url: https://github.com/otaxhu/MQTTy/releases/download/v0.1.2/MQTTy-0.1.2.tar.xz
-        sha256: 9808dc6f2603c94f2ef716b672e5b273b4222d823b361a6feede50218fb228b4
+        url: https://github.com/otaxhu/MQTTy/releases/download/v0.1.3/MQTTy-0.1.3.tar.xz
+        sha256: dc9d840761457e4fa99a8847f92aae5b4f1a465a93e1aa78e0c58046c148fb98
